@@ -5,7 +5,7 @@ This is a recipe I got at some point in Austin. It's a really straightforward ch
 ## Tools
 
 * 2x Skillets/Frying Pans
-* 1x Large Sauce Pot `OR` Crock Pot
+* 1x Large Sauce Pan `OR` Crock Pot
 * Spatulas
 * Cutting Board
 * Chef's knife
@@ -13,14 +13,14 @@ This is a recipe I got at some point in Austin. It's a really straightforward ch
 
 ## Ingredients
 
-* 2 lbs. Ground Beef (80-85% lean)
-* 1 can Black Beans
-* 0.5 bag Frozen Corn
-* 1 Onion (chopped and sautéed)
-* 2 Tomatoes (chopped)
-* 1 Bell pepper (chopped)
-* 1x 26 oz. can Tomato Sauce
-* "some" Mild Chili Seasoning (1 packet is usually enough, but sometimes you want more)
+* 2 lbs. **Ground Beef** (80-85% lean)
+* 1 can **Black Beans**
+* 0.5 bag **Frozen Corn**
+* 1 **Onion** (chopped and sautéed)
+* 2 **Tomatoes** (chopped)
+* 1 **Bell Pepper** (chopped)
+* 1x 26 oz. can **Tomato Sauce**
+* "some" **Mild Chili Seasoning** (1 packet is usually enough, but sometimes you want more)
 
 ## Instructions
 
