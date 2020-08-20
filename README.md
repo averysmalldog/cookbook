@@ -3,3 +3,4 @@ An actual cookbook with real recipes. Like the kind you make in an actual kitche
 
 ## Navigation
 [Main Courses](main-courses)
+[Desserts](desserts)
