@@ -7,7 +7,7 @@ An extremely delicious dessert that is difficult to stop eating.
 * Cookie Sheet
 * Small Mixing Bowl
 * Large Mixing Bowl
-* Mixing Ppoon `OR` Hand-held Mixer `OR` Kitch-Aid Style Mixer
+* Mixing Spoon `OR` Hand-held Mixer `OR` Kitch-Aid Style Mixer
 * Oven, preheated to 375° F
 
 ## Ingredients
