@@ -38,4 +38,4 @@
 
 ## Notes
 
-* Challah makes for *really* good french toast bread!
+* Challah makes for *really* good french toast bread! 
