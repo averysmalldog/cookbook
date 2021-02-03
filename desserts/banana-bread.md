@@ -15,8 +15,8 @@ A classic way to take those bananas you never ate and turn them into something *
 * 1/3 cup **Butter** (softened)
 * 1 cup **Sugar**
 * 1 **Egg** (beaten)
-* 1 tablespoon **Vanilla**
-* 1 tablespoon **Baking Soda**
+* 1 teaspoon **Vanilla**
+* 1 teaspoon **Baking Soda**
 * pinch **Salt**
 * 1 1/2 (1.5) cups **Flour**
 
