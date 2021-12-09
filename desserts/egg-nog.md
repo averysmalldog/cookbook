@@ -1,7 +1,7 @@
 # Tools
 
 - 3 Quart Saucepan (this will contain the entire recipe)
-- Medium mixing bow (big enough to contain 6 egg yolks and 1.5 cups of eggnog comfortably)
+- Medium mixing bowl (big enough to contain 6 egg yolks and 1.5 cups of eggnog comfortably)
 - Two whisks... or one if you want to rise it off
 - Several mason jars
 
